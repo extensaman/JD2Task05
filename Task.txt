@@ -1,3 +1,5 @@
 Task condition.
 1. How to select records with odd Ids?
 2. How to find duplicates in an email field?
+3. When selecting from a table, add 1 day to the date.
+4. Select only unique names.
