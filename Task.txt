@@ -8,3 +8,4 @@ Task condition.
 7. Given the tables 'workers' and 'departments'. Find all departments without a single worker
 8. Replace the worker's salary in the table with 1000 if it is 900 and 1500 otherwise
 9. When fetching from the user table, create a field that will include both names and salary
+10. Rename table
